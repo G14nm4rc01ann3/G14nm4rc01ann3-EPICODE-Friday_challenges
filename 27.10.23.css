@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Open+Sans&family=Poppins:wght@400;700&display=swap');
+        
+        .FirstImage{
+            text-align: center;
+            background-color: black;
+        }
+
+        body{
+            color: #393d41;
+            font-size: 1.2rem;
+            font-family: 'Open Sans', sans-serif;
+            line-height: 1.65;
+        }
+        header{
+            background-image: url(images/banner.jpg);
+            text-align: center;
+            margin-bottom: 1.5em;
+            padding: 2em 1.5em;
+            color: black;
+
+
+        }
+        header nav{
+            background-image: url(images/banner.jpg);
+            text-align: center;
+            margin-bottom: 1.5em;
+            padding: 2em 1.5em;
+            color: black;
+        }
+
+        h1,h2,h3,h4,h5,h6{
+            color: #25a2c3;
+            font-family: 'Montserrat', sans-serif;
+            line-height: 1.5
+
+        }
+        #button{
+            background-color: #f04c2f ;
+            font-family: 'Montserrat', sans-serif;
+            color: white;
+        }
+        main{
+            text-align: center;
+        }
+        .img1{
+            border-radius: 180px;
+
+        }
+        .AtTheMiddle{
+            color: white;
+            background-color: red;
+
+        }
+        .AtTheMiddle h3{
+            color: white;
+        }
+        .BelowHalf, .BelowHalf2, .BelowHalf3{
+            border: 1px gray solid;
+            margin: 60px;
+        }
+        footer{
+            background-color: #25a2c3;
+            text-align: center;
+            color: white;
+
+
+        }
+        footer h3{
+            color: white;
+
+        }
+        footer a{
+            color: #c8e7f0;
+
+
+        }
+        .HrClass{
+            color: white;
+            text-align: center;
+            width: 250px;
+
+
+        }
+        footer p{
+            font-size: 17px;
+        }
+        
